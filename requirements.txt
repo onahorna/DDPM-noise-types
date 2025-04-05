@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+pandas
+optuna
+datasets
+Pillow
+tqdm
